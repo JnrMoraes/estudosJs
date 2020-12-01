@@ -1,0 +1,1 @@
+// fazer um produto com nome e preco dar desconto no produto se o valor for maior que 100 e o total de desconto for menor q 5% do valor do produto

@@ -1,0 +1,1 @@
+this.ola2 = 'Legal, importado  index pastaC'
